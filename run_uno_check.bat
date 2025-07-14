@@ -1,1 +1,0 @@
-"C:\Program Files\LibreOffice\program\python.exe" "C:\Users\kazuw\autowin\check_uno.py"
